@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>XXX有限公司</title>
+	<link rel="stylesheet" type="text/css" href="css/1.css">
+	<style>
+		
+	</style>
+</head>
+<body>
+	<div class="outer">
+		<div class="nav1">
+			<ul>
+				<li><a href="#">设为首页</a></li>
+				<li><a href="#">加入收藏</a></li>
+			</ul>
+		</div>
+		<div class="nav2">
+			<div class="n1_you">
+				<img src="img/2016-09-25_003530.png">
+				<span>call:0422 556699</span>
+			</div>
+			<div class="n1_zuo">
+				<span>LOGO</span>
+				<span>XXXX有限公司</span>
+			</div>
+		</div>
+		<div class="nav3">
+			<input type="text" placeholder="请输入关键词..." id="text">
+			<input type="submit" id="btn" value="搜索">
+			<ul>
+				<li>首页</li>
+				<li>公司简介</li>
+				<li>产品展示</li>
+				<li>新闻动态</li>
+				<li>合作伙伴</li>
+				<li>联系我们</li>
+			</ul>
+		</div>
+		<div id="lunbo">
+			<ul id="img">
+				<li class="on"><a href="#"><img src="img/banner1.jpg"></a></li>
+				<li><a href="#"><img src="img/banner2.jpg"></a></li>
+				<li><a href="#"><img src="img/banner1.jpg"></a></li>
+			</ul>
+			<ul id="order">
+				<li class="on"></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+		<div id="content1">
+			<div class="cont1"></div>
+		</div>
+	</div>
+</body>
+<script src="js/1.js"></script>
+</html>
